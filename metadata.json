@@ -1,0 +1,6 @@
+{
+  "name": "Pionnier Club International (PCI)",
+  "description": "Site officiel du Pionnier Club International (PCI) — Réseau d'excellence fondé sur le leadership, la fraternité, la solidarité et le développement partagé.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
